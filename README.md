@@ -1,7 +1,10 @@
 # mobile-proj
 
 > just for pratice
-> 純練習的作品，僅做做一個爬蟲顯示資料
+>
+> 純練習的作品，僅做做一個爬蟲顯示資料，滑開左側抽屜可以看到somewhat的menu
+> 此也面有寫barcode scaner
+>
 > 筆記 : 呼叫cordova plugin的方法與原生cordova一樣
 
 ## Build Setup
@@ -10,15 +13,11 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
+#install cordova platforms and plugins those be wrote in config.xml file
+cordova prepare
 # build for android device
 cordova build android
 ```
