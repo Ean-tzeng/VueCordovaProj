@@ -1,4 +1,0 @@
-#Mon Jul 09 17:30:38 CST 2018
-base.0=C\:\\Users\\Ean.Tzeng\\Desktop\\cordova-vue\\mobile-proj\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-renamed.0=classes.dex
-file.0=C\:\\Users\\Ean.Tzeng\\Desktop\\cordova-vue\\mobile-proj\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
